@@ -1,7 +1,7 @@
 - 🔭 I’m Ali Taher 
-- 🌱 I’m currently learning Computer science At faculty of computer and information science ain shams university
+- 🌱 I’m currently learning Computer science At faculty of Computer and Information Science Ain Shams University
 - 👯 I’m looking to collaborate on Software development
-- 📫 How to reach me Alitaheryehia1230@gmail.com
+- 📫 How to reach me alitaheryehia1230@gmail.com
 
 
 
